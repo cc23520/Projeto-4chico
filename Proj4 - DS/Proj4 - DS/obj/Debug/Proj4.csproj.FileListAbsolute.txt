@@ -9,3 +9,14 @@ G:\Chico\0Cotuca\anos letivos\2025\disciplinas\ED\Projetos\Proj4-Caminhos de Tre
 G:\Chico\0Cotuca\anos letivos\2025\disciplinas\ED\Projetos\Proj4-Caminhos de Trem São Paulo\Proj4\obj\Debug\Proj4.exe
 G:\Chico\0Cotuca\anos letivos\2025\disciplinas\ED\Projetos\Proj4-Caminhos de Trem São Paulo\Proj4\obj\Debug\Proj4.pdb
 G:\Chico\0Cotuca\anos letivos\2025\disciplinas\ED\Projetos\Proj4-Caminhos de Trem São Paulo\Proj4\obj\Debug\Proj4.exe.config
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\bin\Debug\Proj4.exe.config
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\bin\Debug\Proj4.exe
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\bin\Debug\Proj4.pdb
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.AssemblyReference.cache
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.exe.config
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.Form1.resources
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.Properties.Resources.resources
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.GenerateResource.cache
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.CoreCompileInputs.cache
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.exe
+C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.pdb
