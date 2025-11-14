@@ -30,16 +30,19 @@ namespace Proj4
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			string caminho = @"..\..\Dados\cidades.dat";
+          
+           
+
+            string caminho = @"..\..\Dados\cidades.dat";
 
 			using (BinaryReader br = new BinaryReader(File.OpenRead(caminho)))
 			{
 				while (br.BaseStream.Position < br.BaseStream.Length)
 				{
 					char[] nomeChars = br.ReadChars(25);
-					string nome = new string(nomeChars).TrimEnd();
+                    string nome = new string(nomeChars).TrimEnd('\0', ' ');
 
-					double x = br.ReadDouble();
+                    double x = br.ReadDouble();
 					double y = br.ReadDouble();
 
 					cidades.Add(new Cidade(nome, x, y));
@@ -83,6 +86,56 @@ namespace Proj4
 			}
 		}
 
+        private void btnExcluirCidade_Click(object sender, EventArgs e)
+        {
+            string nome = txtNomeCidade.Text.Trim();
 
-	}
+            if (string.IsNullOrWhiteSpace(nome))
+            {
+                MessageBox.Show("Digite o nome da cidade que deseja excluir.");
+                return;
+            }
+
+            Cidade cidade = cidades.Find(c => c.Nome.Equals(nome, StringComparison.OrdinalIgnoreCase));
+
+            if (cidade == null)
+            {
+                MessageBox.Show("Cidade não encontrada!");
+                return;
+            }
+
+         
+            cidades.Remove(cidade);
+
+          
+            pbMapa.Invalidate();
+
+            MessageBox.Show("Cidade excluída com sucesso!");
+        }
+
+        private void btnBuscarCidade_Click(object sender, EventArgs e)
+        {
+            string nome = txtNomeCidade.Text.Trim();
+
+            if (string.IsNullOrWhiteSpace(nome))
+            {
+                MessageBox.Show("Digite o nome da cidade.");
+                return;
+            }
+
+            Cidade cidade = cidades.Find(c => c.Nome.Equals(nome, StringComparison.OrdinalIgnoreCase));
+
+            if (cidade == null)
+            {
+                MessageBox.Show("Cidade não encontrada!");
+                return;
+            }
+
+          
+            udX.Value = (decimal)cidade.X;
+            udY.Value = (decimal)cidade.Y;
+
+            MessageBox.Show("Cidade encontrada!");
+        }
+    }
 }

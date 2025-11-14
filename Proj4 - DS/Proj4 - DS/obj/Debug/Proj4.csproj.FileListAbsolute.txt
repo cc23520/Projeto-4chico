@@ -20,3 +20,14 @@ C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Pro
 C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.CoreCompileInputs.cache
 C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.exe
 C:\Users\rjose\Desktop\github\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.pdb
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\bin\Debug\Proj4.exe.config
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\bin\Debug\Proj4.exe
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\bin\Debug\Proj4.pdb
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.exe.config
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.Form1.resources
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.Properties.Resources.resources
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.exe
+C:\Users\Admin\Desktop\P4\Projeto-4chico\Proj4 - DS\Proj4 - DS\obj\Debug\Proj4.pdb
