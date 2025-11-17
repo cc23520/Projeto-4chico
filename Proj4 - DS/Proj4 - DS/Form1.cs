@@ -73,10 +73,7 @@ namespace Proj4
 			arvore.Desenhar(pnlArvore);
 		}
 
-		// ================================
-		//        BUSCAR CIDADE
-		// ================================
-
+	
 		private void btnBuscarCidade_Click(object sender, EventArgs e)
 		{
 			string nome = txtNomeCidade.Text.Trim().ToUpperInvariant();
@@ -101,10 +98,6 @@ namespace Proj4
 
 			MessageBox.Show("Cidade encontrada!");
 		}
-
-		// ================================
-		//        EXCLUIR CIDADE
-		// ================================
 
 		private void btnExcluirCidade_Click(object sender, EventArgs e)
 		{
@@ -234,6 +227,11 @@ namespace Proj4
 			udX.Value = (decimal)x;
 			udY.Value = (decimal)y;
 		}
+
+		
+		
+		
+
 
 	}
 

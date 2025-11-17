@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|c:\\users\\rjose\\desktop\\github\\projeto-4chico\\proj4 - ds\\proj4 - ds\\listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:listasimples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\ligacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:ligacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\ligacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:ligacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|solutionrelative:arvore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6740BFC1-3F71-402F-87E5-DFF5FD2CEB47}|Proj4.csproj|C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\iregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Arvore.cs",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Arvore.cs",
               "RelativeDocumentMoniker": "Arvore.cs",
@@ -51,7 +55,19 @@
               "ViewState": "AgIAAL4AAAAAAAAAAAAYwOMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T21:17:35.187Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaSimples.cs",
+              "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\ListaSimples.cs",
+              "RelativeDocumentMoniker": "ListaSimples.cs",
+              "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\ListaSimples.cs",
+              "RelativeToolTip": "ListaSimples.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAowFgBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T16:24:37.921Z",
               "EditorCaption": ""
             },
             {
@@ -123,37 +139,37 @@
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAuwDkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T19:55:49.121Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T19:47:43.018Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NoLista.cs",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\NoLista.cs",
               "RelativeDocumentMoniker": "NoLista.cs",
@@ -165,19 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Ligacao.cs",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Ligacao.cs",
               "RelativeDocumentMoniker": "Ligacao.cs",
               "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Ligacao.cs",
               "RelativeToolTip": "Ligacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:26:56.942Z"
+              "WhenOpened": "2025-10-19T21:26:56.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IRegistro.cs",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\IRegistro.cs",
               "RelativeDocumentMoniker": "IRegistro.cs",
@@ -189,13 +206,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cidade.cs",
               "DocumentMoniker": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Cidade.cs",
               "RelativeDocumentMoniker": "Cidade.cs",
               "ToolTip": "C:\\Users\\rjose\\Desktop\\github\\Projeto-4chico\\Proj4 - DS\\Proj4 - DS\\Cidade.cs",
               "RelativeToolTip": "Cidade.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T21:11:50.096Z",
               "EditorCaption": ""
