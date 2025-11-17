@@ -4,8 +4,8 @@ namespace Proj4
 {
 	public class Ligacao : IComparable<Ligacao>
 	{
-		string origem, destino;
-		int distancia;
+		public string origem, destino;
+		public int distancia;
 
 		public int CompareTo(Ligacao other)
 		{
